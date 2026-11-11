@@ -1,0 +1,8 @@
+{
+  "name": "myharness",
+  "version": "0.1.0",
+  "description": "검증(verifier)·정리(cleaner) 에이전트와 위험한 셸 명령을 막는 PreToolUse Hook",
+  "author": {
+    "name": "baekjh"
+  }
+}
